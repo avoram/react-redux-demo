@@ -1,0 +1,119 @@
+.header{
+  background: gray;
+  padding : 10px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.friend-post-icon-container{
+  margin-top: 20px;
+}
+
+.friend-post-icon{
+  color: #3c3ce6;
+  font-size: 23px;
+  margin-left: 20px;
+}
+.icon-friends-posts{
+  width: 86px;
+  border: 1px solid black;
+  background: #6e7273;
+}
+
+.friend-list{
+  width : 80px;
+  border : 1px solid black;
+  margin-left: 40px;
+  background-color: lightBlue;
+}
+
+.show-friends{
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.friend-name{
+  margin-left: 55px;
+  font-size:20px;
+}
+
+.bg-light-gray{
+  background-color : #9c9090;
+  margin-bottom: 20px;
+}
+
+.bg-gray{
+  background-color : rgba(128, 128, 128, 0.33);
+  margin-bottom: 20px;
+}
+
+.posts-container{
+  margin-bottom: 20px;
+}
+
+.friends-messages-container{
+  margin-top: 20px;
+  font-size: 18px;
+  border: 2px solid gray;
+  background : lightgray;
+  padding : 10px;
+}
+
+.message-sender-friend-name{
+  color: rgba(0, 0, 255, 0.57);
+  font-weight: bold;
+}
+
+.post-image{
+  width:500px;
+  height:200px;
+}
+
+.post-titie{
+  font-size : 20px
+}
+
+.post-link{
+  font-size : 15px
+}
+
+.post-sender{
+  font-weight: bold;
+  font-size : 20px;
+}
+
+.user-post{
+  margin-bottom: 20px;
+}
+
+.selectedFriend{
+  text-align: center;
+  font-size: 25px;
+  color: rgba(0, 0, 255, 0.57);
+  margin-bottom: 20px;
+}
+
+.messages-title{
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.messages-list{
+  border: 1px solid gray;
+  padding:10px;
+  background: lightblue;
+  margin-bottom: 20px;
+}
+
+.send-message-title{
+  font-size: 22px;
+  margin-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.send-button{
+  width : 100px;
+  margin-top: 3px;
+}

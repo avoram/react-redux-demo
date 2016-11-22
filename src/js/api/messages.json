@@ -1,0 +1,32 @@
+{
+  "messages" : {
+    "Ashvin":
+      [
+        {"id": 1, "from": "Ashvin", "text": "Hey Mayank What's the plan for weekend"},
+        {"id": 2, "from": "Mayank", "text": "Hey Ashvin Nothing Much. Just regular shoppings and all"},
+        {"id": 3, "from": "Ashvin", "text": "Let's play TT at my place."}
+      ],
+
+      "Praveen":
+        [
+          {"id": 1, "from": "Mayank", "text": "Congratulation Bro for your Engagement"},
+          {"id": 2, "from": "Praveen", "text": "Thanks Dude.Plan for my marriage and let me know about your confirm tickets."},
+          {"id": 3, "from": "Mayank", "text": "Ya Sure buddy. Will definitely come on time"}
+        ],
+
+        "Vishal":
+        [
+          {"id": 1, "from": "Vishal", "text": "Hey buddy..we are planning for Shimla-Manali trip. Will you join"},
+          {"id": 2, "from": "Mayank", "text": "Hey Vicky. It's Superb. Will surely join. Let's discuss the plan "},
+          {"id": 3, "from": "Vishal", "text": "Ya Sure. We will meet some where and make the plan for it"},
+          {"id": 4, "from": "Mayank", "text": "Yes, Let's mee at my home and make the plan."}
+        ],
+
+        "Maheep":
+        [
+          {"id": 1, "from": "Maheep", "text": "Hi Mayank..I am coming to Pune this saturday for my CDEC paper"},
+          {"id": 2, "from": "Mayank", "text": "It's great. All the very best for it and will plan to meet"},
+          {"id": 3, "from": "Maheep", "text": "Ya Sure. I will meet you after my exam. Bye..."}
+        ]
+  }
+}
